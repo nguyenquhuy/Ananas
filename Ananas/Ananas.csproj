@@ -2149,6 +2149,7 @@
     <Content Include="assets\js\main.js" />
     <Content Include="Cart.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Index.html" />
     <Content Include="Login.aspx" />
     <Content Include="Logout.aspx" />
     <Content Include="Prodetail.aspx" />
